@@ -1,0 +1,2 @@
+# spisok-del
+izi
